@@ -13,4 +13,4 @@ https://cwmasters.github.io/code-refactor/
 ## Contribution
 Made with ❤️ Horiseon Social Solution Services, Inc and Refactor by Chris Masters
 
-### ©2019 Horiseon Social Solutiion Services, Inc.
+### ©2019 Horiseon Social Solution Services, Inc.
