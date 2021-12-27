@@ -11,7 +11,7 @@ A Website that offers Social Solution Strategy.
 https://cwmasters.github.io/code-refactor/
 
 # Image
-##![alt text](file:///Users/chrismasters/Desktop/projects/code-refactor/index.html)
+##![alt text](./assets/images/horiseon-mock-up.png)
 
 ## Contribution
 Made with ❤️ Horiseon Social Solution Services, Inc and Refactor by Chris Masters
