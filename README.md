@@ -9,6 +9,8 @@ A Website that offers Social Solution Strategy.
 
 # Website
 https://cwmasters.github.io/code-refactor/
+
+# Image
 ##![alt text](file:///Users/chrismasters/Desktop/projects/code-refactor/index.html)
 
 ## Contribution
