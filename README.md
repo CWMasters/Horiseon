@@ -10,6 +10,9 @@ A Website that offers Social Solution Strategy.
 # Website
 https://cwmasters.github.io/Horiseon/
 
+# Screenshot
+![screenshot](.assets/images/screenshot1.png)
+
 ## Contribution
 Made with ❤️ Horiseon Social Solution Services, Inc and Refactor by Chris Masters
 
