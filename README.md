@@ -7,11 +7,11 @@ A Website that offers Social Solution Strategy.
 * HTML
 * CSS
 
-# Website
+## Website
 https://cwmasters.github.io/Horiseon/
 
-### Screenshot
-![screenshot](./assets/images/![Screen Shot 2021-12-28 at 5 22 53 PM (2)](https://user-images.githubusercontent.com/95546410/147617029-6e527666-5d0e-46be-87cc-f90c3d1d36f4.png)
+## Screenshot
+![screenshot](./assets/images/screenshot.png)
 
 ![screenshot](.assets/images/![Screen Shot 2021-12-28 at 5 22 50 PM (2)](https://user-images.githubusercontent.com/95546410/147617172-54188004-9178-4a4e-9874-d284f73c2aa8.png)
 
